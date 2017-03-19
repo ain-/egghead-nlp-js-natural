@@ -47,4 +47,12 @@ function testClassifier(testData) {
     }
   });
   console.log("Correct %:", numCorrect/testData.length);
+  saveClassifier(classifier);
+}
+
+function saveClassifier(classifier) {
+  classifier.save('classifier.json', function(err, classifier) {
+    err ? console.log(err)
+    : console.log("Classifier saved!");
+  });
 }
