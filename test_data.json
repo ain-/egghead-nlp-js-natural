@@ -1,0 +1,6 @@
+[
+  {"text": "cheap drugs", "label": "spam"},
+  {"text": "winner money", "label": "spam"},
+  {"text": "party next weekend", "label": "notspam"},
+  {"text": "hang out", "label": "notspam"}
+]

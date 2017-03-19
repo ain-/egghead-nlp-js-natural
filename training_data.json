@@ -1,0 +1,10 @@
+[
+  {"text": "drugs on sale", "label": "spam"},
+  {"text": "you are the winner", "label": "spam"},
+  {"text": "earn more money", "label": "spam"},
+  {"text": "free drugs", "label": "spam"},
+  {"text": "project planning", "label": "notspam"},
+  {"text": "birthday party", "label": "notspam"},
+  {"text": "drinks on Monday?", "label": "notspam"},
+  {"text": "purchase confirmed", "label": "notspam"}
+]
